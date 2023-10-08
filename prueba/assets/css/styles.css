@@ -1,0 +1,70 @@
+body {
+    background-color: #eaf2e3;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+   }
+.parrafo {
+    font-style: italic;
+    font-weight: bold; 
+    margin: 0 auto;
+    color: #2f8247;
+}
+header {
+    background-color: #69bd45;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+   }
+   section {
+    padding: 20px; /* espaciado para la sección de 20 pixeles */}
+   footer {
+    background-color: #4caf50; /* Color de fondo del footer */
+    color: #fff;
+    padding: 20px 0; }
+   .footer-content {
+    max-width: 800px; /* Ancho máximo del contenido del footer */
+    margin: 0 auto; /* Centrar el contenido del footer horizontalmente */
+    text-align: center; }
+/* Estilos para el nav y enlaces de ul y li */
+   nav {
+    background-color: #4caf50;
+    padding: 10px;
+   }
+   nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+   }
+   nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+   }
+   nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+   }
+   nav ul li a:hover {
+    background-color: #2f8247;
+   }
+   img {
+    display: block; /* Para eliminar el espacio adicional que algunos navegadores agregan a las img. */
+    margin: 0 auto; /* Centrar las imágenes horizontalmente */
+    max-width: 100%; /* Asegurar que las imágenes no excedan el ancho del contenedor */
+    border: 3px solid #69bd45; /* Contorno de 3px con un color verde (#69bd45) alrededor de la img.*/
+    border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */
+    top: 0;
+   }
+   
+   quienesimg{
+    width: 30px;
+   }
+
+
+   titu{
+    color: green;
+   }

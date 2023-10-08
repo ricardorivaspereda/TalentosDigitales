@@ -1,0 +1,28 @@
+CRITICAL - 2023-09-21 23:01:03 --> Undefined array key "baja"
+in APPPATH\Controllers\login_controller.php on line 30.
+ 1 APPPATH\Controllers\login_controller.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "baja"', 'C:\\xampp\\htdocs\\prueba\\app\\Controllers\\login_controller.php', 30)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\login_controller->auth()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-21 23:10:34 --> Undefined array key "baja"
+in APPPATH\Controllers\login_controller.php on line 30.
+ 1 APPPATH\Controllers\login_controller.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "baja"', 'C:\\xampp\\htdocs\\prueba\\app\\Controllers\\login_controller.php', 30)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\login_controller->auth()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-21 23:14:55 --> Undefined array key "baja"
+in APPPATH\Controllers\login_controller.php on line 30.
+ 1 APPPATH\Controllers\login_controller.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "baja"', 'C:\\xampp\\htdocs\\prueba\\app\\Controllers\\login_controller.php', 30)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\login_controller->auth()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-09-21 23:26:15 --> Undefined array key "baja"
+in APPPATH\Controllers\login_controller.php on line 30.
+ 1 APPPATH\Controllers\login_controller.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "baja"', 'C:\\xampp\\htdocs\\prueba\\app\\Controllers\\login_controller.php', 30)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\login_controller->auth()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\login_controller))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
